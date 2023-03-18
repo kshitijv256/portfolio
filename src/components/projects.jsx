@@ -21,7 +21,7 @@ const Projects = () => {
           desc="User can just click a picture of handwritten math question and get
           the answer from this app."
           tech="Flutter | Flask | Tensorflow | Open-CV"
-          link="https://github.com/kshitijv256/Math-Solver"
+          link="https://github.com/kshitijv256/Maths-Solver-using-ML"
         />
         <Project
           name="Classify"

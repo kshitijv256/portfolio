@@ -6,7 +6,7 @@ const Intro = () => {
   return (
     <div id="intro" className="bg-gradient-to-bl from-violet-900 via-slate-800 to-slate-800 py-10 self-center w-full">
         <div className="flex flex-row flex-wrap lg:w-1/2">
-      <div className="flex flex-col items-start justify-start p-10">
+      <div className="flex flex-col items-start justify-start p-10 pt-20">
         <div className="flex flex-row items-center gap-10">
           <img
             className="object-center object-cover rounded-full h-40 w-40 hover:ring-8 ring-violet-800 ring-8 sm:ring-0"
