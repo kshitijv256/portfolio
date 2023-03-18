@@ -1,4 +1,6 @@
 import React from "react";
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+
 
 const Modal = (props) => {
     if (!props.show) {
@@ -11,6 +13,11 @@ const Modal = (props) => {
             Press it
             </span>
             <p>{props.children}</p>
+        </div>
+        <div
+        id="contact"
+        className="bg-slate-800 py-10 self-center w-full"
+        >
         </div>
         </div>
     );
